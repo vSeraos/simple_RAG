@@ -1,6 +1,6 @@
 # Simple RAG — Sistema de Recuperação de Informação com Manual de Carro
 
-Este projeto implementa um sistema **RAG (Retrieval-Augmented Generation)** que responde a perguntas sobre o manual do veículo **Chevrolet Corsa**, utilizando modelos de linguagem e busca vetorial.
+Este projeto implementa um sistema **RAG (Retrieval-Augmented Generation)** que responde a perguntas sobre o manual do veículo **Chevrolet**, utilizando modelos de linguagem e busca vetorial.
 
 ---
 
@@ -55,11 +55,12 @@ O projeto utiliza:
 
 -Hugging Face Embeddings
 
-O sistema opera em português (pt-BR), tanto para entrada quanto para saída.
+-O sistema opera em português (pt-BR), tanto para entrada quanto para saída.
 
-O projeto pode ser utilizado com outros arquivos pdf servindo de contexto.
+-O projeto pode ser utilizado com outros arquivos pdf servindo de contexto.
 
 ## Exemplos
 
-#Pergunta: -  A cada quantos kms deve ser feita a troca de óleo?
-#Resposta esperada: - A resposta útil é: 7.500 km ou 6 meses, o que ocorrer primeiro, se o veículo estiver sujeito a qualquer destas condições severas de uso. Caso contrário, é recomendado trocar o óleo a cada 15.000 km ou 12 meses, o que ocorrer primeiro.
+# Pergunta: -  A cada quantos kms deve ser feita a troca de óleo?
+
+# Resposta esperada: - A resposta útil é: 7.500 km ou 6 meses, o que ocorrer primeiro, se o veículo estiver sujeito a qualquer destas condições severas de uso. Caso contrário, é recomendado trocar o óleo a cada 15.000 km ou 12 meses, o que ocorrer primeiro.
