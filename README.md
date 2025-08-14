@@ -61,6 +61,6 @@ O projeto utiliza:
 
 ## Exemplos
 
-# Pergunta: -  A cada quantos kms deve ser feita a troca de óleo?
+Pergunta: -  A cada quantos kms deve ser feita a troca de óleo?
 
-# Resposta esperada: - A resposta útil é: 7.500 km ou 6 meses, o que ocorrer primeiro, se o veículo estiver sujeito a qualquer destas condições severas de uso. Caso contrário, é recomendado trocar o óleo a cada 15.000 km ou 12 meses, o que ocorrer primeiro.
+Resposta esperada: - A resposta útil é: 7.500 km ou 6 meses, o que ocorrer primeiro, se o veículo estiver sujeito a qualquer destas condições severas de uso. Caso contrário, é recomendado trocar o óleo a cada 15.000 km ou 12 meses, o que ocorrer primeiro.
